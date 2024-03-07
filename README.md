@@ -18,3 +18,9 @@ This can be exploited for various applications, such as those in lab-on-a-chip d
 - **"Brownian Motion.ipynb"**: simulates Brownian motion for a spherical microparticle. First simulates in 1D and 2D (no trapping), and does analysis of the mean square displacements. Then simulates in a 3D harmonic potential trap (like optical tweezers). Then solves in 2D in an egg-carton potential.
 - **"Egg-Carton Potential.ipynb"**: definition and plot of egg-carton potential.
 - **"HOPG_Magnetic_Transport.ipynb"**: simulates magnetic control of ellipsoidal graphitic microparticles (HOPG) in aqueous solution.
+
+Example:
+
+<p align="center">
+  <img src="https://github.com/illg-ucl/Simulating-HOPG/blob/master/Brownian_project.png" width=70% height=70%>
+</p>
